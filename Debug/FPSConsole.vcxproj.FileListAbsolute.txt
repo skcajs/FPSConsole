@@ -1,0 +1,2 @@
+C:\Users\Sam\Documents\Code\FPSConsole\Debug\FPSConsole.exe
+C:\Users\Sam\Documents\Code\FPSConsole\Debug\FPSConsole.pdb
